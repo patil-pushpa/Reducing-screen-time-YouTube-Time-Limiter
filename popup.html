@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube Time Limiter</title>
+  <!-- Include the Tailwind CSS stylesheet -->
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    body {
+      width: 200px;
+      height: 300px;
+    }
+    button {
+      padding: 10px 20px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body class="bg-gray-100 p-8 flex flex-col items-center justify-center">
+  <h1 class="text-2xl font-bold mb-4">Time's Up!</h1>
+  <p class="text-lg mb-4">You have exceeded the time limit on YouTube.</p>
+  <button id="closeTabBtn" class="px-4 py-2 bg-red-500 text-white rounded hover:bg-red-600">Close Tab</button>
+
+  <script src="popup.js"></script>
+</body>
+</html>
