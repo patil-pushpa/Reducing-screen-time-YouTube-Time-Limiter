@@ -20,8 +20,7 @@
 
 ## Preview
 
-### Extension
-![Screenshot 1](https://i.ibb.co/Bqfzzmz/Screenshot-2024-03-31-151821.png)
-
 ### Popup
-![Screenshot 2](https://i.ibb.co/MZCZzGK/Screenshot-2024-03-31-152515.png)
+![st6](https://github.com/user-attachments/assets/81be7fc9-7ef4-44f1-9264-b697eeecb61e)
+
+
